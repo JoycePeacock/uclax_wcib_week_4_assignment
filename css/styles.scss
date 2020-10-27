@@ -99,7 +99,18 @@ body {
     margin-top: 7rem;
   }
 }
-.carousel-caption text-right {
-  margin-right: .75rem;
-  margin-left: .75rem;
+.btn-primary {
+    color: #fff;
+    background-color: #346c66;
+    border-color: #ffffff;
+}
+.bg-dark {
+    background-color: #346c66!important;
+}
+.btn-outline-success {
+    color: #f7f7f7;
+    border-color: #c7b2b1;
+}
+.text-muted {
+    color: #0e0e0e!important;
 }
