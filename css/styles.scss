@@ -6,7 +6,7 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
-  background-color: #c7b2b1;  
+  background-color: #c7b2b1;
 }
 
 
@@ -19,7 +19,7 @@ body {
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 3rem;
+  bottom: 4rem;
   z-index: 10;
   color: black;
 }
@@ -99,7 +99,7 @@ body {
     margin-top: 7rem;
   }
 }
-#myCarousel {
-    height: 100vh;
-    width: 100%;
+.carousel-caption text-right {
+  margin-right: .75rem;
+  margin-left: .75rem;
 }
