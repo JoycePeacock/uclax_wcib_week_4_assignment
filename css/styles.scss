@@ -114,7 +114,7 @@ body {
 .text-muted {
     color: #0e0e0e!important;
 }
-@media (min-width: 992px)
+@media (min-width: 992px) {
   .col-lg-3 {
   flex: 0 0 25%;
   max-width: 25%;
@@ -122,4 +122,15 @@ body {
 .marketing .col-lg-3 {
     margin-bottom: 1.5rem;
     text-align: center;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #73298a;
+    border-color: #346c66;
+}
 }
